@@ -7,3 +7,7 @@
 ### git remote add Games (HTTPS)
 ### git branch -M main
 ### git pull games main
+
+### git add .
+### git commit -m ""
+### git push games main
