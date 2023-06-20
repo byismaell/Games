@@ -1,6 +1,5 @@
 ﻿# Projeto de Games - jogos digitais
- 
-###{IMPORTAR}
+{IMPORTAR}
 
 ### git init
 ### git config --global user.name (USER) 
@@ -9,8 +8,7 @@
 ### git remote add Games (HTTPS)
 ### git branch -M main
 ### git pull Games main
-
-###{EXPORTAR}
+{EXPORTAR}
 
 ### git add .
 ### git commit -m ("")
